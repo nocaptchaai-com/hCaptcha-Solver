@@ -24,6 +24,8 @@
 <img alt="github stars" src="https://user-images.githubusercontent.com/4178343/202237567-002e4ca9-0d30-417a-88e9-05a2f8489e05.png">
 </a>
 
+
+# Check https://github.com/shimuldn/hCaptchaSolverApi
 <p>
   
   
